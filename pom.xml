@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>Hello</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging> <!-- Needed for WAR deployment -->
+    <packaging>jar</packaging><!-- Needed for WAR deployment -->
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
